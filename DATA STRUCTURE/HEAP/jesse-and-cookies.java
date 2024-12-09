@@ -1,5 +1,5 @@
-//jesse-and-cookies
-/** 
+//Java 15
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -63,5 +63,3 @@ public class Solution {
         bufferedWriter.close();
     }
 }
-
-*/
